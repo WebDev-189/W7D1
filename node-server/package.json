@@ -1,0 +1,24 @@
+{
+	"name": "my-first-node-server",
+	"version": "0.0.1",
+	"description": "Trying out to create a Node server",
+	"main": "app.js",
+	"scripts": {
+		"test": "????",
+		"dev": "nodemon app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "????"
+	},
+	"keywords": [
+		"server",
+		"node",
+		"express"
+	],
+	"author": "Me",
+	"license": "MIT",
+	"dependencies": {
+		"nodemon": "^3.0.1"
+	}
+}
